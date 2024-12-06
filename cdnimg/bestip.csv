@@ -1,0 +1,12 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+168.138.162.187,443,true,SIN,Asia Pacific,Singapore,71 ms,5501 kB/s
+143.47.182.56,443,true,FRA,Europe,Frankfurt,184 ms,4528 kB/s
+143.47.182.56,443,true,FRA,Europe,Frankfurt,194 ms,4230 kB/s
+130.61.23.77,443,true,FRA,Europe,Frankfurt,189 ms,1941 kB/s
+152.70.52.253,443,true,FRA,Europe,Frankfurt,277 ms,370 kB/s
+84.235.169.234,443,true,AMS,Europe,Amsterdam,178 ms,104 kB/s
+129.146.243.241,443,true,LAX,North America,Los Angeles,233 ms,0 kB/s
+141.144.253.109,443,true,FRA,Europe,Frankfurt,201 ms,0 kB/s
+129.146.240.62,443,true,LAX,North America,Los Angeles,203 ms,0 kB/s
+129.146.7.98,443,true,LAX,North America,Los Angeles,207 ms,0 kB/s
+192.18.159.129,443,true,YYZ,North America,Toronto,268 ms,0 kB/s
