@@ -24,14 +24,12 @@ jobs:
       
             - name: Sync cnblog
               run: |
-                git config --global user.email "cselzh@gmail.com"
-                git config --global user.name "legical"
                 git checkout cnblog
                 cd gh/leegical
                 rm -rf Blog_img
                 git clone https://github.com/leegical/Blog_img.git
                 cd Blog_img
-                rm -rf .git
+                rm -rf .git*
       
             - name: Commit changes
               uses: stefanzweifel/git-auto-commit-action@v5
